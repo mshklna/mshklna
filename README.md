@@ -1,6 +1,7 @@
 # Hi! :sparkles: Welcome to my GitHub Profile
 
-![giphy (1)](https://github.com/mshklna/mshklna/assets/109113744/0dc46d87-bb09-4e2e-a139-e7c95260e8b2)
+<img  width="350" src="Mer.gif" >
+</p>
 
 <div align="right" >
 
