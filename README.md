@@ -51,7 +51,6 @@
   <img src="https://d2h1nbmw1jjnl.cloudfront.net/company_directory_entries/company_logos/000/000/328/original/bstack_2x.png?1582638320" width="50" height="50" />&nbsp; &nbsp; &nbsp; &nbsp;
     
 ---
-<br>
 
 ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="45" height="35">
 <a href="https://www.linkedin.com/in/mshklna/" target="blank" >
