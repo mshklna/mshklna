@@ -68,14 +68,11 @@
 <br>
 
 <p align="center">
-  
-  ![212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4](https://github.com/mshklna/mshklna/assets/109113744/fcd369e9-0c91-4352-8bdf-1479c93451d3)
+  <img  width="600" src="QA_coding.gif" >
 </p>
 
-<p align="right"> 
-  
-  **_In my free time, I enjoy traveling, <br> dancing, reading and drawing_** 
-  </p>
-
+<p align="right">
+  In my free time, I enjoy traveling, <br> dancing, reading and drawing. <br><br>
+</p> 
 
 ![](https://komarev.com/ghpvc/?username=mshklna&color=yellow)
