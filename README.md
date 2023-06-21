@@ -1,6 +1,7 @@
 # Hi! :sparkles: Welcome to my GitHub Profile
 
-<img  width="350" src="Mer.gif" >
+<p align="center">
+<img  width="350" src="Olivia.gif" >
 </p>
 
 <div align="right" >
