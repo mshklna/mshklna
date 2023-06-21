@@ -72,7 +72,7 @@
 
 <p align="right"> 
   
-  **_n my free time, I enjoy traveling, <br> dancing, reading and drawing_** 
+  **_In my free time, I enjoy traveling, <br> dancing, reading and drawing_** 
   </p>
 
 
