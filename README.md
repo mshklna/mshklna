@@ -1,4 +1,4 @@
-# Hi! :sparkles: Welcome to my GitHub Profile
+# Hi! Welcome to my GitHub Profile:woman_technologist:
 
 <p align="center">
 <img  width="300" src="Mer.gif" >
@@ -6,7 +6,7 @@
 
 <div align="right" >
 
-  # I'm Maria:wave:
+  # I'm Maria:sparkles:
 
 </div>
 
