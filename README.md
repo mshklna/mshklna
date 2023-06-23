@@ -1,7 +1,7 @@
 # Hi! :sparkles: Welcome to my GitHub Profile
 
 <p align="center">
-<img  width="350" src="Olivia.gif" >
+<img  width="300" src="Mer.gif" >
 </p>
 
 <div align="right" >
